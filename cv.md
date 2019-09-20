@@ -2,22 +2,22 @@
 
 ## Contact info
 
-__Phone__|__WhatsApp__|__Telegram__: +7(916)8156088 (Russia)
-__email__: nikita.belyakov.38@ya.ru
-__skype__: live:.cid.8c4c7611bc7ae171
+__Phone__|__WhatsApp__|__Telegram__ : +7(916)8156088 (Russia)
+__email__ : nikita.belyakov.38@ya.ru
+__skype__ : live:.cid.8c4c7611bc7ae171
 
 ## About my goals
 
     I began to study frontend not so long ago, and JavaScript is my first programming language.
     But i like it, i like to develop a websites. 
     And i will learn all that is necessary to become a real web designer.
-    
+
 ## my skills: 
 
-* basic HTML;
-* basic CSS;
-* basic JavaScript;
-* Git basic;
+ * basic HTML;
+ * basic CSS;
+ * basic JavaScript;
+ * Git basic;
 
 ## Education:
 
