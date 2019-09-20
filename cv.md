@@ -8,9 +8,9 @@
 
 ## About my goals
 
-    I began to study frontend not so long ago, and JavaScript is my first programming language.
-    But i like it, i like to develop a websites. 
-    And i will learn all that is necessary to become a real web designer.
+I began to study frontend not so long ago, and JavaScript is my first programming language.
+But i like it, i like to develop a websites. 
+And i will learn all that is necessary to become a web designer.
 
 ## my skills: 
 
@@ -27,4 +27,4 @@ Certificate:
 Basic course on Udemy.
 ## English
 
-    not so strong yet, but I'm working on it)
+not so strong yet, but I'm working on it)
