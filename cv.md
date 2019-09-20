@@ -2,9 +2,9 @@
 
 ## Contact info
 
-__Phone__|__WhatsApp__|__Telegram__ : +7(916)8156088 (Russia)
-__email__ : nikita.belyakov.38@ya.ru
-__skype__ : live:.cid.8c4c7611bc7ae171
+* __Phone__: +7(916)8156088 (Russia)
+* __email__: nikita.belyakov.38@ya.ru
+* __skype__: live:.cid.8c4c7611bc7ae171
 
 ## About my goals
 
@@ -21,10 +21,10 @@ __skype__ : live:.cid.8c4c7611bc7ae171
 
 ## Education:
 
-    Some practice CSS, HTML, and JS on Stepik.
-    Certificate [Html, css](https://stepik.org/cert/217399), [JavaScript](https://stepik.org/cert/214998);
-    Basic course on Udemy.
-
+Some practice CSS, HTML, and JS on Stepik.
+Certificate:
+[CSS]( https://stepik.org/cert/217399 ), [JavaScript](https://stepik.org/cert/214998);
+Basic course on Udemy.
 ## English
 
     not so strong yet, but I'm working on it)
