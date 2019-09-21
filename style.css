@@ -1,0 +1,50 @@
+body {
+    background-color: #c2a7a1;
+}
+
+main {
+    max-width: 1024px;
+    border: #2f6061 solid 2px;
+    border-radius: 10px;
+    background-color: #323131;
+    margin: auto;
+    font-family: sans-serif;
+    color: #2f6061;
+}
+
+.foto {
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    border: 2px solid;
+    background-color: white;
+    margin: 20px 20px 20px 100px;
+}
+
+.name {
+    text-align: left;
+    font-size: 28px;
+}
+
+.container {
+    display: flex;
+    justify-content: left;
+}
+
+.aboutMe {
+    border-left: 1px solid;
+    margin: 20px;
+    padding-left: 16px;
+    max-width: 460px;
+}
+
+.box {
+    border-left: 1px solid;
+    margin: 20px 20px 20px 100px;
+    padding-left: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: bisque;
+}
