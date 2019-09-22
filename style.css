@@ -1,12 +1,11 @@
 body {
-    background-color: #c2a7a1;
+    background-color: white;
 }
 
 main {
     max-width: 1024px;
     border: #2f6061 solid 2px;
     border-radius: 10px;
-    background-color: #323131;
     margin: auto;
     font-family: sans-serif;
     color: #2f6061;
@@ -18,7 +17,9 @@ main {
     border-radius: 50%;
     border: 2px solid;
     background-color: white;
-    margin: 20px 20px 20px 100px;
+    margin: 20px 20px 20px 0;
+    background-image: url(img/myFoto.jpg);
+    background-size: cover;
 }
 
 .name {
@@ -28,23 +29,32 @@ main {
 
 .container {
     display: flex;
-    justify-content: left;
+    justify-content: center;
 }
 
 .aboutMe {
-    border-left: 1px solid;
-    margin: 20px;
-    padding-left: 16px;
+    border-top: 1px solid;
     max-width: 460px;
 }
 
-.box {
+.education {
+    max-width: 210px;
+}
+
+.contact {
+    margin-right: 100px;
     border-left: 1px solid;
-    margin: 20px 20px 20px 100px;
-    padding-left: 16px;
+    padding: 20px;
+    margin: 20px 152px 20px 0;
+}
+
+.box {
+    margin: 20px 20px 20px 0;
+    padding: 0 20px;
+    border-left: 1px solid;
 }
 
 a {
     text-decoration: none;
-    color: bisque;
+    color: darkcyan;
 }
